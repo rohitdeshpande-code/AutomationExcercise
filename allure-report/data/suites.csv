@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4994","Verify user is able to search with partial event name","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""
+"","8702","Verify and Search for matching event","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""
+"","5353","Verify Not exisiting event not getting searched with error message","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""
+"","7225","Verify filter cities and check the cards","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""
+"","6225","Verify filter events and check the cards","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""
+"","6704","Verify apply filter and clear filter working as expected","chrome","2026-09-11","passed","2026-09-11","Event Page Tests","Events.spec.ts","",""

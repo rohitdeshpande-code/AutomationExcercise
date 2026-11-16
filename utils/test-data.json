@@ -1,0 +1,8 @@
+
+{
+    "username": "rdtest05@test.com",
+    "password": "Test@1234",
+    "invalidusername": "testuser01@@123.com",
+    "invalidpassword": "test!@#",
+    "passwordLessThanSix": "P123"
+}
